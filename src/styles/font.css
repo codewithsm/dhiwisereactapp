@@ -1,0 +1,70 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SpaceGroteskRegular.ttf");
+  font-family: "Space Grotesk";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OpenSansRomanSemiBold.ttf");
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ABeeZeeRegular.ttf");
+  font-family: "ABeeZee";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OpenSansRegular.ttf");
+  font-family: "Open Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SpaceGroteskLight.ttf");
+  font-family: "Space Grotesk";
+  font-weight: 300;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanSemiBold.ttf");
+  font-family: "Urbanist";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanMedium.ttf");
+  font-family: "Urbanist";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanRegular.ttf");
+  font-family: "Urbanist";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OpenSansRomanBold.ttf");
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanBold.ttf");
+  font-family: "Urbanist";
+  font-weight: 700;
+}
